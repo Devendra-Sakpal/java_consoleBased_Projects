@@ -26,7 +26,7 @@ public class guessingGame{
                 System.out.println("Too high! try again");
             }else{
                 System.out.println("Congratulation! you guessed the correct");
-                System.out.println("attempts:"+" "+attempt);
+                System.out.println("In"+" "+attempt+" attempts");
                
                 break;
             }
